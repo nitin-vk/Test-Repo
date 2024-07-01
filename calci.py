@@ -17,3 +17,5 @@ class Calculator:
     
     def pow(self, a, b):
         return self.a ** self.b
+    
+    print("These are the calculators")
