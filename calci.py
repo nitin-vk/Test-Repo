@@ -14,3 +14,6 @@ class Calculator:
     def div(self, a, b):
         print("division print")
         return a/b
+    
+    def pow(self, a, b):
+        return self.a ** self.b
